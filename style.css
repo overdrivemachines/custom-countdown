@@ -112,6 +112,7 @@ ul {
 }
 
 li {
+  display: inline-block;
   font-size: 30px;
   list-style-type: none;
   padding: 10px;
@@ -128,6 +129,30 @@ li span {
 .complete {
   position: relative;
   top: 60px;
+}
+
+.complete-title {
+  /* (Name of animation) (duration) (loop) */
+  animation: complete 4s infinite;
+}
+
+@keyframes complete {
+  0% {
+    color: rgb(255, 0, 0);
+  }
+  25% {
+    color: rgb(255, 196, 0);
+  }
+  50% {
+    color: rgb(3, 243, 43);
+    transform: scale(1.5);
+  }
+  75% {
+    color: rgb(0, 132, 255);
+  }
+  100% {
+    color: rgb(234, 0, 255);
+  }
 }
 
 /* Media Query: Large Smartphone (Vertical) */
