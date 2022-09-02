@@ -12,3 +12,4 @@ Live - https://overdrivemachines.github.io/custom-countdown/
 - Form Accessibility - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
   - provide labels for controls
   - explicitly associate a label with its control
+- Input Date - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
