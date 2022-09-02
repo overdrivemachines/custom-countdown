@@ -7,3 +7,5 @@ Displays a countdown. Title and date are entered by user for something they want
 Live - https://overdrivemachines.github.io/custom-countdown/
 
 ## References
+
+- Video Background - https://www.pexels.com/video/view-of-a-beautiful-horizon-1723017/
