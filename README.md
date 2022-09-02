@@ -9,3 +9,6 @@ Live - https://overdrivemachines.github.io/custom-countdown/
 ## References
 
 - Video Background - https://www.pexels.com/video/view-of-a-beautiful-horizon-1723017/
+- Form Accessibility - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+  - provide labels for controls
+  - explicitly associate a label with its control
