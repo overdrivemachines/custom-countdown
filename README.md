@@ -13,3 +13,4 @@ Live - https://overdrivemachines.github.io/custom-countdown/
   - provide labels for controls
   - explicitly associate a label with its control
 - Input Date - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
+- Submit event - https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
