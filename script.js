@@ -24,7 +24,7 @@ const completeBtn = $("#complete-button");
 
 let countdownTitle = "";
 let countdownDate = "";
-let countdownValue = Date;
+let countdownValue = new Date();
 let countdownActive;
 
 let savedCountdown;
