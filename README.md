@@ -14,3 +14,4 @@ Live - https://overdrivemachines.github.io/custom-countdown/
   - explicitly associate a label with its control
 - Input Date - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
 - Submit event - https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
+- JS Timing Events - https://www.w3schools.com/js/js_timing.asp
